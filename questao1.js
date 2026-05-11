@@ -4,5 +4,5 @@ function fatorial(n) {
     opF *= i;
   }
   return opF;
-}
+} 
 console.log(fatorial(5));

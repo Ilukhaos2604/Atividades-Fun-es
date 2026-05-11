@@ -13,5 +13,5 @@ function escolhaFibonacci(n){
         }
     }
     return escolha;    
-}
+} 
 console.log(escolhaFibonacci(10))

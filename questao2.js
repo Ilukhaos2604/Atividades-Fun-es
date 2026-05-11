@@ -7,7 +7,7 @@ function nPrimo(n){
         }
     }
     return ePrimo
-}
+} 
 
 // function nPrimo(n) {
 //    if (n <= 1) {return false}

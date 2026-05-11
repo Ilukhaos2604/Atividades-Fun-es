@@ -8,5 +8,5 @@ while (n != 1) {
     }
 }
 return n;
-}
+} 
 console.log(collatz(6))

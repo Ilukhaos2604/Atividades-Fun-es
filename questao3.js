@@ -7,5 +7,5 @@ function fibonacci(n){
         numbers.push(numbers[i-2] + numbers[i-1])
     }
     return numbers;
-}
+} 
 console.log(fibonacci(10))
