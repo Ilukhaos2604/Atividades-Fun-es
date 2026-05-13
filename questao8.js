@@ -5,7 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-const call = menuPrincipal();
+menuPrincipal();
 
 function menuPrincipal() {
   rl.question(
